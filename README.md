@@ -1,5 +1,5 @@
 
-AI-Supported-Q-A-System-on-Web-Traffic-Logs
+AI Supported QA System on Web Traffic Logs
 
 1. Introduction
 
@@ -19,6 +19,8 @@ For details on the system's performance and suggestions for improvements, please
 
 
 
+
+Web Trafik Loglarına Dayalı Yapay Zeka Destekli Soru-Cevap Sistemi
 
 1. Giriş
 
